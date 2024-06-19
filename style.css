@@ -8,6 +8,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     background-color: #f2f2f2;
+    color:blue;
   }
   
   .container {
@@ -47,23 +48,18 @@ body {
     background-color: #45a049;
   }
   
-  .formulas {
+  .Hints {
     margin-top: 30px;
   }
   
-  .formulas h2 {
+  .Hints h2 {
     margin-bottom: 10px;
     color: #333;
   }
   
-  .formulas p {
+  .Hints p {
     margin: 5px 0;
     font-size: 14px;
     color: #666;
   }
   
-  footer {
-    margin-top: 20px;
-    text-align: center;
-    color: #888;
-  }
